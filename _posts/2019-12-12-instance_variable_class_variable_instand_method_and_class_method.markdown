@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Instance variable,Class variable,Instand method and Class method."
+date:       2019-12-12 22:15:07 +0000
+permalink:  instance_variable_class_variable_instand_method_and_class_method
+---
+
+
+# **An instance variable is a variable defined in a class (i.e. a member variable ), for which each instantiated object of the class has a separate copy or instance. An instance variable is similar to a class variable. ... Variables are properties an object knows about itself, the instance variables are visible for all instance methods and instances. In the Ruby programming language, an instance variable is a type of variable that starts with an @ symbol. An instance variable is used as part of Object-Oriented Programming (OOP) to give objects their own private space to store data. We say that objects can: Do things. Related to my CLI project I was able to create instances of a class assigned it to an instance variable which symbolizes each instantiated object of the class has a separate copy.  Example @game = Game.new.....@game is an instance variable hold a copy of an instance of the class. In object-oriented programming with classes, a class variable is any variable declared with the static modifier of which a single copy exists, regardless of how many instances of the class exist this is @@ symbol denotes what class variable represents. Related to my project class variable is used to keep track or save all instances of my games. In addition to what a class method: A class method is a method that is bound to the class and not the object of the class. They have access to the state of the class as it takes a class parameter that points to the class and not the object instance. It can modify a class state that would apply across all the instances of the class. Instance variables exist before methods are called on an object, while the methods are executing and after the methods complete execution. A class normally contains one or more methods that manipulate the instance variables that belong to particular objects of the class.
+# Note: Fairly straightforward, methods that are available on classes are called class methods, and methods that are available on instances are called instance methods.
+# The content of your blog post goes here.**
