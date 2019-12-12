@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Instance variable,Class variable,Instand method and Class method."
-date:       2019-12-12 22:15:07 +0000
+date:       2019-12-12 17:15:08 -0500
 permalink:  instance_variable_class_variable_instand_method_and_class_method
 ---
 
