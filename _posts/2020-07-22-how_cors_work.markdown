@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How CORS work"
-date:       2020-07-22 19:33:00 +0000
+date:       2020-07-22 15:33:01 -0400
 permalink:  how_cors_work
 ---
 
